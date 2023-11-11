@@ -22,10 +22,10 @@
 <!--About-->
 ### 🙋🏽‍♂️***About me ....***
 
-✔ I'm a senior computer science student at Qatar University and an undergraduate reseach assistant 💡<br>
-✔ I’m currently Developing an open source FastApi production template, Vaultexe password manager 🔑<br>
-✔ I'm currently working as a backend engineer for an upcomming Carbon Pricing Platform 🌱<br>
-✔ I enjoy competitive programming, solving Leetcode & Codeforces questions 🚀<br>
+✔ I'm a senior computer science student at Qatar University and a reseach assistant 💡<br>
+✔ I’m currently Developing an open source FastApi production template, Vaultexe 🔑<br>
+✔ I work as a backend engineer for an upcomming Carbon Pricing Platform 🌱<br>
+✔ I enjoy competitive programming, solving Leetcode questions 🚀<br>
 ✔ I work mainly in Python 🐍 but I am blown away with GO 🦫<br>
 
 <br>
