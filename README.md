@@ -40,10 +40,6 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,docker,postgres,redis,py,git,linux,bash,pytorch,flask,git,githubactions,go,java,ts,express,mongodb,supabase,firebase,html,css,md&perline=14" />
+    <img src="https://skillicons.dev/icons?i=fastapi,docker,postgres,redis,py,git,linux,bash,pytorch,flask,githubactions,go,java,ts,express,mongodb,supabase,firebase,html,css,md&perline=14" />
   </a>
 </p>
-
-  <!--<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
-  </a>
