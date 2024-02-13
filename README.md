@@ -5,7 +5,7 @@
 
 <!--Role-->
 <div align=center>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=28&duration=3000&pause=1000&center=true&color=00BC41FF&vCenter=true&random=false&width=500&lines=Backend+Engineer;Computer+Science+Student+@QU;" alt="Typing SVG" /></a>
+  <h2>Backend Engineer</h2>
 </div>
 
 <!--Snake-->
@@ -23,9 +23,9 @@
 ### 🙋🏽‍♂️***About me ....***
 
 ✔ I'm a senior computer science student at Qatar University and a reseach assistant 💡<br>
-✔ I’m currently Developing an open source FastApi production template, Vaultexe 🔑<br>
-✔ I work as a backend engineer for an upcomming Carbon Pricing Platform 🌱<br>
-✔ I enjoy competitive programming, solving Leetcode questions 🚀<br>
+✔ I enjoy contributing to OSS and developed an open source FastApi production template, Vaultexe 🔑<br>
+✔ I work as a backend engineer for the next Qatar Carbon Pricing Platform 🌱<br>
+✔ I enjoy competitive programming & solving Leetcode questions 🚀<br>
 ✔ I work mainly in Python 🐍 but I am blown away with GO 🦫<br>
 
 <br>
