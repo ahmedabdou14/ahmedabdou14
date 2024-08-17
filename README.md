@@ -1,4 +1,4 @@
-<img align="right" width=390x height=390px alt="side_gif" src="assets/gophercoding.gif" />
+<img align="right" width=410x height=410px alt="side_gif" src="assets/gophercoding.gif" />
 
 ### Oh hi there!
 
