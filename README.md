@@ -13,7 +13,6 @@ As you may have guessed already, I am a huge fan of Go and Python, most of my wo
 I contribute to open source software from time to time. I even built some myself, check them out below 👇🏽
 
 <br>
-<br>
 
 ![Tech Stack](assets/techstack.png)
 
